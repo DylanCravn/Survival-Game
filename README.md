@@ -1,2 +1,3 @@
 # Survival-Game
-High School group project with Caleb O'Brien
+
+Wave Survival Mini Game written in Java using greenfoot
